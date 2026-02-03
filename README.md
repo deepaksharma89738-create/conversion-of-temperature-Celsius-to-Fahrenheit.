@@ -1,0 +1,2 @@
+# conversion-of-temperature-Celsius-to-Fahrenheit.
+Program converts temperature from Celsius to Fahrenheit using the standard conversion formula. It takes the Celsius value as input from the user, applies the calculation F = (C × 9/5) + 32, and displays the result. The program is simple, accurate, and helps beginners understand arithmetic operations, user input, and output handling in programming.
